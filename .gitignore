@@ -2,3 +2,7 @@
 /build/
 /tests/sst/
 __pycache__/
+
+# Local, not published: teaching workspace and design-checker config
+/learn/
+/.impeccable/
